@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Pemula</string>
+    <string name="detail_kelas">detail_kelas</string>
+    <string name="nama_kelas">nama_kelas</string>
+    <string name="profile">Profile</string>
+    <string name="nama">nama</string>
+    <string name="detail">detail</string>
+</resources>
